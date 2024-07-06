@@ -4,7 +4,7 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 export const ProductSlider = () => {
-    const {products} = useFetch("http://localhost:8000/featured");
+    const {products} = useFetch(`${process.env.REACT_APP_HOST}/featured`);
     
     // For Carousel
     const responsive = {
