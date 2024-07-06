@@ -1,7 +1,11 @@
 import { CartProduct } from "../elements/CartProduct"
+import { useNavigate } from "react-router-dom"
 
 export const CartFull = ({cartList}) => {
-    
+    const navigate = useNavigate();
+    function handleSubmit(){
+      navigate("/checkout")
+    }
   return (
     <div className='mx-auto w-[50%]'>
         <div>
@@ -10,7 +14,7 @@ export const CartFull = ({cartList}) => {
             }
         </div>
         <div className="flex justify-center">
-            <button className="bg-amber-700 text-white text-xl py-[1%] px-[5%]">Checkout</button>
+            <button onClick={handleSubmit} className="bg-amber-700 text-white text-xl py-[1%] px-[5%]">Checkout</button>
         </div>
     </div>
   )
