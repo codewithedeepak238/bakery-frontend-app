@@ -435,148 +435,16 @@
       "id": 5
     },
     {
-      "email": "saraswat89@gmail.com",
-      "password": "$2a$10$M7qZvdXCLHdiApwf0T52c.tQlT/bB1R38dLB.fkK1XI0l30poBeGC",
-      "name": "deepak",
+      "email": "wick@mail.com",
+      "password": "$2a$10$cNjoLa13xakvrHpiVS.W9eTrpC9rywg189az08PHkQglr4SKF7xUO",
+      "name": "Deepak",
       "id": 6
     },
     {
-      "email": "example@example.com",
-      "password": "$2a$10$lYgXgSQqZQZgLOgkk2St1eNbWsoHglN6.G.XvcHxgrGvsUiYBURQa",
-      "name": "alex",
+      "email": "wick23@mail.com",
+      "password": "$2a$10$ymT7.C6FzqCrlTx44DEmJ.8LXmOvr54A4EPYTFrg87nnH5vB9Q4yG",
+      "name": "Wick Hecte",
       "id": 7
-    },
-    {
-      "email": "deepak238@gmail.com",
-      "password": "$2a$10$7gxR76aw6fDf6NPDBwVHFe1aJpKj.9c64ASPGbevk9auNh2HlLTpe",
-      "name": "deepak",
-      "id": 8
-    },
-    {
-      "email": "deepaksaraswat238@gmail.com",
-      "password": "$2a$10$0aqaduFSkL5dUgEWxJhMAeE4xp5lKqClRSC0U/i4zwwYvT4NVrt/q",
-      "name": "deepak saraswat",
-      "id": 9
-    },
-    {
-      "email": "alex@gmail.com",
-      "password": "$2a$10$Qikj30129Wxs7HlvjN/H2uEYSSWI742VRUmLssS6cdsYlpAgZRUMu",
-      "name": "alex",
-      "id": 10
-    },
-    {
-      "email": "ravi@gmail.com",
-      "password": "$2a$10$7dqq65F8kJALESnBi1BoI.uFl04Z0R8XXYcllrdKJPLOq1ttb4Ubi",
-      "name": "ravi",
-      "id": 11
-    },
-    {
-      "email": "alex1@example.com",
-      "password": "$2a$10$mnI1EeJDbkxfxt5nLyIRNePx/RSqUulcztViDAY50gELM650/RFTa",
-      "name": "Alex T",
-      "id": 12
-    },
-    {
-      "email": "ravi238@gmail.com",
-      "password": "$2a$10$f9shZMmNMPkZF7vg.uVYuOEnY5WDN0PjQsUkEUcv2bsoBS2CL7gJO",
-      "name": "ravi saraswat",
-      "id": 13
-    },
-    {
-      "email": "jhon@gmail.com",
-      "password": "$2a$10$l9jPU2U.9JCmIbh5klQ90Ol/N8.F2cV3hXW1eZH30Fu9hfQnYeOEq",
-      "name": "jhon",
-      "id": 14
-    },
-    {
-      "email": "myalex@gmail.com",
-      "password": "$2a$10$sczj1RmL2JMym5n61VMWCeWLTmlTwvvOX.Eon9a6y6G2w.axL.omK",
-      "name": "alex T",
-      "id": 15
-    },
-    {
-      "email": "deepak238ravi@gmail.com",
-      "password": "$2a$10$7t.vnOvE/3lPyigE6L1fYudYRIaLtsuAm.mBf4O7O8n4Tmf0Dix0.",
-      "name": "Deepak",
-      "id": 16
-    },
-    {
-      "email": "mail@mail.com",
-      "password": "$2a$10$b.u012gxTlkPZjOyZ.5XhuHVbFgjPqKGuddoZ0whfgsaeL26hdtnK",
-      "name": "Deepak",
-      "id": 17
-    },
-    {
-      "email": "ravi@mail.com",
-      "password": "$2a$10$LNgGpw7i.B6mVQ7PnzZl8e.7C5C.2/4RQG3LEK0vSwO2Fr7qFxv1S",
-      "name": "ravi",
-      "id": 18
-    },
-    {
-      "email": "kartik@mail.com",
-      "password": "$2a$10$cgZs3vFtPojr04PBodSQp.s8HLEyamn0W9JP2RUMjpbRA3IG9gIwO",
-      "name": "kartik",
-      "id": 19
-    },
-    {
-      "email": "mailravi@mail.com",
-      "password": "$2a$10$Mr9D/qpa4iFBJBzsraft5upVZyqa4RGz3T6fKzNH9hLrBEsLK9wSS",
-      "name": "ravi",
-      "id": 20
-    },
-    {
-      "email": "deepak@mail.com",
-      "password": "$2a$10$OBonKeN7ZLzqz0FLkIzaEugYeFYFe0sVjjdXS6YpXTKX3O5G4I.yG",
-      "name": "Deepak",
-      "id": 21
-    },
-    {
-      "email": "deepak238@mail.com",
-      "password": "$2a$10$Ybc75IkcPw.hBp1TrlRCsun6UAdX3moJfOFBfyVnpqVsMFsHAe80G",
-      "name": "deepak",
-      "id": 22
-    },
-    {
-      "email": "kartik238@mail.com",
-      "password": "$2a$10$KM8S1jZ1aMTOY83cUnZij.YUrLpX/HvUpdqqLcII1tn72QzWB0pm.",
-      "name": "kartik",
-      "id": 23
-    },
-    {
-      "email": "jhon@mail.com",
-      "password": "$2a$10$maIYJiDRLpIYv4NWWbTAE.firdiHB1/JAoT3.FkssNYPVU4NGIBgu",
-      "name": "deepak",
-      "id": 24
-    },
-    {
-      "email": "saraswat238@gmail.com",
-      "password": "$2a$10$SpqMDwUBB4ueyZusZGwcBOmvNujN6wrR4de4G.Wsxaz6z2zWmjVRW",
-      "name": "deepak",
-      "id": 25
-    },
-    {
-      "email": "deepakmail@mail.c",
-      "password": "$2a$10$WUBr42ipLvizcxhiaDYTy.6tyUpWAKGBAWw5t1HpW1sMHSrhLQC2i",
-      "name": "DEEPAK",
-      "id": 26
-    },
-    {
-      "email": "wick@wick.com",
-      "password": "$2a$10$SHW.MYt8p5QG/8NFW0gstOMeqPsI.HSLqZSr73.5FMnSjk5pmmBV6",
-      "name": "Deepak",
-      "id": 27
-    },
-    {
-      "email": "test@test.com",
-      "password": "$2a$10$1YSgISszXsqM6F8ACaYLDeVIqPEpXiGFSed4m1R.QlPS3Z2viEsBC",
-      "name": "deepak",
-      "id": 28
-    },
-    {
-      "email": "fake@mail.com",
-      "password": "$2a$10$yweuqLTYqXwDADG7ChypieerDO20MKq71YS5Fx/dbt3c0fA0j7Xeu",
-      "name": "deepak",
-      "id": 29
     }
   ]
 }

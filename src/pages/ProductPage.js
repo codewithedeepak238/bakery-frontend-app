@@ -9,7 +9,7 @@ export const ProductPage = () => {
     const {addTocart, removeCart, cartList} = useCart();
     const [add, setAdd] = useState(false);
     const [value, setValue] = useState(1);
-    const {products} = useFetch(`http://localhost:8000/products/${id}`);
+    const {products} = useFetch(`${process.env.REACT_APP_HOST}/products/${id}`);
     let c = products.category;
 
     function handleIncr(){

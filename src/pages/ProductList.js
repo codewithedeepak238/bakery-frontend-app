@@ -5,7 +5,7 @@ import useTitle from "../hooks/useTitle";
 
 export const ProductList = () => {
     const navigate = useNavigate();
-    const url = "http://localhost:8000/products";
+    const url = `${process.env.REACT_APP_HOST}/products`;
     const [params] = useSearchParams();
     const category = params.get('category');
     const query = params.get('q');

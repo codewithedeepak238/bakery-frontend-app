@@ -11,13 +11,12 @@ export const SignUp = () => {
             email: e.target.mail.value,
             password: e.target.password.value
         }
-        const response = await fetch('http://localhost:8000/register', {
+        const response = await fetch(`${process.env.REACT_APP_HOST}/register`, {
             method: 'POST',
             headers: {'content-type': 'application/json'},
             body: JSON.stringify(detail)
         });
         const data = await response.json();
-        console.log(data);
         data.accessToken? toast.success('Successfully Signed up'): toast.error(data);
         if(data.accessToken){
             sessionStorage.setItem('token', JSON.stringify(data.accessToken));

@@ -10,7 +10,7 @@ export const LogIn = () => {
             email: e.target.mail.value,
             password: e.target.password.value
         }
-        const response = await fetch('http://localhost:8000/login',{
+        const response = await fetch(`${process.env.REACT_APP_HOST}/login`,{
             method: "POST",
             headers: {'content-type':'application/json'},
             body: JSON.stringify(detail)
